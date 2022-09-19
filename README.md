@@ -1,3 +1,6 @@
+# Live view
+you can see this web page at (https://gpt3-design.herokuapp.com/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
